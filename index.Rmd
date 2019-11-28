@@ -1,5 +1,9 @@
 ---
-title: "Andrew's Website"
+title: "Andrew Boardman"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
-Hello, World!
+I'm a data scientist and PhD student at the University of Cambridge. I work in the [Bender group](https://www.ch.cam.ac.uk/group/bender/index?_ga=2.58134191.44286804.1574698321-778899572.1573305902), applying machine learning to enable better and faster drug discovery. In the past I've worked in other data-related fields, including for Public Health England - there I built an app to allow NHS staff to compare cancer treatment at different hospitals. Generally I am passionate about using data to improve healthcare. A more detailed CV is available here.
